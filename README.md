@@ -1,4 +1,4 @@
-# Osqledaren 17/18: Studenträtt
+# Osqledaren BS4 Starterkit
 
 ## Requirements
 
